@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://neofelis2x.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;neofelis2x.github.io">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It&#x27;s free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+    </str:translations><link rel="extra-stylesheet" href="https://neofelis2x.github.io/skins/portfolio-custom.css?h=63af88a0b94d80699941" /><title>Matthias Kneidinger - Audition</title>
+        <subtitle>Take a look on my industrial design portfolio, where technology meets curiosity and versatility meets attention to detail!</subtitle>
+    <link href="https://neofelis2x.github.io/software/audition/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://neofelis2x.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2021-04-07T00:00:00+00:00</updated>
+    <id>https://neofelis2x.github.io/software/audition/atom.xml</id><entry xml:lang="en">
+        <title>Petřín Funicular</title>
+        <published>2021-04-07T00:00:00+00:00</published>
+        <updated>2021-04-07T00:00:00+00:00</updated>
+        <author>
+            <name>Matthias Kneidinger</name>
+        </author>
+        <link rel="alternate" href="https://neofelis2x.github.io/projects/prague-funicular/" type="text/html"/>
+        <id>https://neofelis2x.github.io/projects/prague-funicular/</id>
+        </entry>
+</feed>
